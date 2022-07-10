@@ -9,7 +9,7 @@
 <a href="https://github.com/chaengs">심채영</a>
 <a href="https://github.com/hyebinjo">조혜빈</a>
 
-### 🗓ㅍ스터디 기간
+### 🗓 스터디 기간
 
 2022.07.11 - 2022.08.06 (4주)
 토요일 8:30AM - 9:30AM
