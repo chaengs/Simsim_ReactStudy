@@ -25,12 +25,14 @@
 <table>
     <tr>
         <th></th>
+        <th>단원명</th>
         <th>스터디원</th>
         <th>공부 내용</th>
     </tr>
     <!-- 1일차 -->
     <tr>
         <td rowspan='4'>1일차</td>
+        <td rowspan='4'>1장. 리액트 입문</td>
         <td>김슬기</td>
  <td class="링크여기에 제출"><a href="https://github.com/sgsg9447/FE_STUDY/tree/main/React/self-study/vlpt-gitbook-study">1장_리액트입문</a></td>
     <tr>
@@ -39,7 +41,7 @@
     </tr>
     <tr>
         <td>심채영</td>
-        <td class="링크여기에 제출"></td>
+        <td class="링크여기에 제출"><a href="https://velog.io/@johyebin/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%8A%A4%ED%84%B0%EB%94%94-React-%EC%9E%85%EB%AC%B8">제출</a></td>
     </tr>
     <tr>
         <td>조혜빈</td>
