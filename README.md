@@ -44,7 +44,7 @@
     </tr>
     <tr>
         <td>조혜빈</td>
-        <td class="링크여기에 제출"></td>
+        <td class="링크여기에 제출"><a href="https://velog.io/@johyebin/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%8A%A4%ED%84%B0%EB%94%94-React-%EC%9E%85%EB%AC%B8">리액트입문</a></td>
     </tr>
     <!-- 2일차 -->
     <tr>
