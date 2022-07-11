@@ -41,7 +41,7 @@
     </tr>
     <tr>
         <td>심채영</td>
-        <td class="링크여기에 제출"><a href="https://velog.io/@johyebin/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%8A%A4%ED%84%B0%EB%94%94-React-%EC%9E%85%EB%AC%B8">제출</a></td>
+        <td class="링크여기에 제출"><a href="https://purple-ocarina-003.notion.site/1-bfec1be91b6b4b8794defc8c468c5270">제출</a></td>
     </tr>
     <tr>
         <td>조혜빈</td>
@@ -50,6 +50,7 @@
     <!-- 2일차 -->
     <tr>
         <td rowspan='4'>2일차</td>
+        <td rowspan='4'>1장. 리액트 입문</td>
         <td>김슬기</td>
         <td class="링크여기에 제출"></td>
     </tr>
@@ -68,6 +69,7 @@
     <!-- 3일차 -->
     <tr>
         <td rowspan='4'>3일차</td>
+        <td rowspan='4'>1장. 리액트 입문</td>
         <td>김슬기</td>
         <td class="링크여기에 제출"></td>
     </tr>
@@ -86,6 +88,7 @@
     <!-- 4일차 -->
     <tr>
         <td rowspan='4'>4일차</td>
+        <td rowspan='4'>1장. 리액트 입문</td>
         <td>김슬기</td>
         <td class="링크여기에 제출"></td>
     </tr>
@@ -104,6 +107,7 @@
     <!-- 5일차 -->
     <tr>
         <td rowspan='4'>5일차</td>
+        <td rowspan='4'>1장. 리액트 입문</td>
         <td>김슬기</td>
         <td class="링크여기에 제출"></td>
     </tr>
