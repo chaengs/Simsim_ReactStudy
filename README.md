@@ -32,8 +32,7 @@
     <tr>
         <td rowspan='4'>1일차</td>
         <td>김슬기</td>
-        <td class="링크여기에 제출"></td>
-    </tr>
+ <td class="링크여기에 제출"><a href="https://github.com/sgsg9447/FE_STUDY/tree/main/React/self-study/vlpt-gitbook-study">1장_리액트입문</a></td>
     <tr>
         <td>김연진</td>
         <td class="링크여기에 제출"></td>
