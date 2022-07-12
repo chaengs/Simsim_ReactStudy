@@ -60,7 +60,7 @@
     </tr>
     <tr>
         <td>심채영</td>
-        <td class="링크여기에 제출"></td>
+        <td class="링크여기에 제출"><a href="https://purple-ocarina-003.notion.site/2-42e3243f425745d28998cbdd7be8390f">제출</a></td>
     </tr>
     <tr>
         <td>조혜빈</td>
