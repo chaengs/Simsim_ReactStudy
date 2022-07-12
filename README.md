@@ -50,7 +50,7 @@
     <!-- 2일차 -->
     <tr>
         <td rowspan='4'>2일차</td>
-        <td rowspan='4'>1장. 리액트 입문</td>
+        <td rowspan='4'>2장. 리액트 컴포넌트 스타일링하기</td>
         <td>김슬기</td>
         <td class="링크여기에 제출"></td>
     </tr>
