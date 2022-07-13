@@ -83,7 +83,7 @@
     </tr>
     <tr>
         <td>조혜빈</td>
-        <td class="링크여기에 제출"></td>
+        <td class="링크여기에 제출"><a href="https://velog.io/@johyebin/3%EC%9E%A5">3장 제출</a></td>
     </tr>
     <!-- 4일차 -->
     <tr>
