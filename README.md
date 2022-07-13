@@ -69,7 +69,7 @@
     <!-- 3일차 -->
     <tr>
         <td rowspan='4'>3일차</td>
-        <td rowspan='4'>1장. 리액트 입문</td>
+        <td rowspan='4'>3장. 멋진 투두리스트 만들기</td>
         <td>김슬기</td>
         <td class="링크여기에 제출"></td>
     </tr>
@@ -79,7 +79,7 @@
     </tr>
     <tr>
         <td>심채영</td>
-        <td class="링크여기에 제출"></td>
+        <td class="링크여기에 제출"><a href="https://purple-ocarina-003.notion.site/3-d001bcc2d4ad4f8d842239c3ad4c3924">제출</a></td>
     </tr>
     <tr>
         <td>조혜빈</td>
