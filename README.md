@@ -71,7 +71,7 @@
         <td rowspan='4'>3일차</td>
         <td rowspan='4'>3장. 멋진 투두리스트 만들기</td>
         <td>김슬기</td>
-        <td class="링크여기에 제출"></td>
+        <td class="링크여기에 제출"><a href="https://github.com/sgsg9447/FE_STUDY/tree/main/React/self-study/todolist-vlog">3장 마크업까지만!</a></td>
     </tr>
     <tr>
         <td>김연진</td>
