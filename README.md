@@ -102,7 +102,7 @@
     </tr>
     <tr>
         <td>조혜빈</td>
-        <td class="링크여기에 제출"></td>
+        <td class="링크여기에 제출"><a href="https://velog.io/@johyebin/4%EC%9E%A5.-API-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0-uu21my46">API 연동하기 제출</a></td>
     </tr>
     <!-- 5일차 -->
     <tr>
