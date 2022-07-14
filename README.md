@@ -88,7 +88,7 @@
     <!-- 4일차 -->
     <tr>
         <td rowspan='4'>4일차</td>
-        <td rowspan='4'>1장. 리액트 입문</td>
+        <td rowspan='4'>4장. API 연동하기</td>
         <td>김슬기</td>
         <td class="링크여기에 제출"></td>
     </tr>
@@ -98,7 +98,7 @@
     </tr>
     <tr>
         <td>심채영</td>
-        <td class="링크여기에 제출"></td>
+        <td class="링크여기에 제출"><a href="https://purple-ocarina-003.notion.site/4-API-bccff7d0f6004aa79586b55fef9fe587">제출</a></td>
     </tr>
     <tr>
         <td>조혜빈</td>
