@@ -121,6 +121,6 @@
     </tr>
     <tr>
         <td>조혜빈</td>
-        <td class="링크여기에 제출"></td>
+        <td class="링크여기에 제출"><a href="https://velog.io/@johyebin/5%EC%9E%A5.-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%9D%BC%EC%9A%B0%ED%84%B0v6">5일차 작성중</a></td>
     </tr>
 </table>
