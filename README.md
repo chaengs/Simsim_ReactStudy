@@ -20,6 +20,73 @@
 - 2주차 - 4주차 : <a href="https://ko.reactjs.org/docs/getting-started.html">리액트 공식 문서</a> 한 주에 목차 하나씩 공부 (주요 개념, 고급 안내서, API 참고서, HOOK)
 - 매 주 공부한 양을 나눠 맡아 글로 요약 정리 후 스터디원과 공유
 
+### 2️⃣ 2주차 - 4주차 : 리액트 공식문서
+
+<table>
+    <tr>
+        <th>주차</th>
+        <th>범위</th>
+        <th>스터디원</th>
+        <th>공부 내용</th>
+    </tr>
+    <!-- 2주차 -->
+    <tr>
+        <td rowspan='4'>2주차</td>
+        <td rowspan='4'>주요개념 끝까지, 고급안내서 접근성 - Context (총 15장)</td>
+        <td>김슬기</td>
+        <td class="링크여기에 제출"><a href="https://velog.io/@sgsg9447/심리스-리액트-공식문서-1일차-JSX-엘리먼트-렌더링">1일차</a></td>
+    <tr>
+        <td>김연진</td>
+        <td class="링크여기에 제출"></td>
+    </tr>
+    <tr>
+        <td>심채영</td>
+        <td class="링크여기에 제출"></td>
+    </tr>
+    <tr>
+        <td>조혜빈</td>
+        <td class="링크여기에 제출"></td>
+    </tr>
+    <!-- 3주차 -->
+    <tr>
+        <td rowspan='4'>3주차</td>
+        <td rowspan='4'></td>
+        <td>김슬기</td>
+        <td class="링크여기에 제출"></td>
+    </tr>
+    <tr>
+        <td>김연진</td>
+        <td class="링크여기에 제출"></td>
+    </tr>
+    <tr>
+        <td>심채영</td>
+        <td class="링크여기에 제출"></td>
+    </tr>
+    <tr>
+        <td>조혜빈</td>
+        <td class="링크여기에 제출"></td>
+    </tr>
+    <!-- 4주차 -->
+    <tr>
+        <td rowspan='4'>4주차</td>
+        <td rowspan='4'></td>
+        <td>김슬기</td>
+        <td class="링크여기에 제출"></td>
+    </tr>
+    <tr>
+        <td>김연진</td>
+        <td class="링크여기에 제출"></td>
+    </tr>
+    <tr>
+        <td>심채영</td>
+        <td class="링크여기에 제출"></td>
+    </tr>
+    <tr>
+        <td>조혜빈</td>
+        <td class="링크여기에 제출"></td>
+    </tr>
+</table>
+
 ### 1️⃣ 1주차 : 벨로퍼트와 함께하는 모던 리액트
 
 <table>
