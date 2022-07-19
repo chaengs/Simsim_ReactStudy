@@ -41,7 +41,7 @@
     </tr>
     <tr>
         <td>심채영</td>
-        <td class="링크여기에 제출"></td>
+        <td class="링크여기에 제출"><a href="https://velog.io/@colorful_chaeng/리액트-공식문서-공부하기-JSX">JSX</a></td>
     </tr>
     <tr>
         <td>조혜빈</td>
