@@ -41,7 +41,11 @@
     </tr>
     <tr>
         <td>심채영</td>
-        <td class="링크여기에 제출"><a href="https://velog.io/@colorful_chaeng/리액트-공식문서-공부하기-JSX">JSX</a></td>
+        <td class="링크여기에 제출">
+            <a href="https://velog.io/@colorful_chaeng/리액트-공식문서-공부하기-JSX">✏️JSX</a>
+            <a href="https://velog.io/@colorful_chaeng/리액트-공식문서-공부하기-엘리먼트-렌더링">✏️엘리먼트 렌더링</a>
+            <a href="https://velog.io/@colorful_chaeng/리액트-공식문서-공부하기-Component와-Props">✏️Component와 Props</a>
+        </td>
     </tr>
     <tr>
         <td>조혜빈</td>
