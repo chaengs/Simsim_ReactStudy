@@ -50,7 +50,13 @@
     </tr>
     <tr>
         <td>조혜빈</td>
-        <td class="링크여기에 제출"></td>
+        <td class="링크여기에 제출">
+          <a href="https://velog.io/@johyebin/리액트-공식문서-스터디-1일차-">1일차</a></br>
+          <a href="https://velog.io/@johyebin/리액트-공식문서-스터디-2일차-component-props">2일차</a></br>
+          <a href="https://velog.io/@johyebin/리액트-공식문서-스터디-3일차">3일차</a></br>
+          <a href="https://velog.io/@johyebin/리액트-공식문서-스터디-4일차1-조건부-렌더링">4-1일차</a></br>
+          <a href="https://velog.io/@johyebin/리액트-공식문서-스터디-4일차2-">4-2일차</a>
+        </td>
     </tr>
     <!-- 3주차 -->
     <tr>
