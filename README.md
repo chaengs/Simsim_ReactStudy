@@ -34,7 +34,11 @@
         <td rowspan='4'>2주차</td>
         <td rowspan='4'>주요개념 끝까지, 고급안내서 접근성 - Context (총 15장)</td>
         <td>김슬기</td>
-        <td class="링크여기에 제출"><a href="https://velog.io/@sgsg9447/심리스-리액트-공식문서-1일차-JSX-엘리먼트-렌더링">1일차</a></td>
+        <td class="링크여기에 제출">
+        <a href="https://velog.io/@sgsg9447/심리스-리액트-공식문서-1일차-JSX-엘리먼트-렌더링">1일차</a></br>
+        <a href="https://velog.io/@sgsg9447/%EC%8B%AC%EB%A6%AC%EC%8A%A4-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C-2%EC%9D%BC%EC%B0%A8-State-and-Lifecycle-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0-%EC%A1%B0%EA%B1%B4%EB%B6%80-%EB%A0%8C%EB%8D%94%EB%A7%81-%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%99%80-Key">2일차 </a></br>
+        <a href="https://velog.io/@sgsg9447/%EC%8B%AC%EB%A6%AC%EC%8A%A4-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C-3%EC%9D%BC%EC%B0%A8-form-state-%ED%95%A9%EC%84%B1-%EC%83%81%EC%86%8D-React%EB%A1%9C-%EC%83%9D%EA%B0%81%ED%95%98%EA%B8%B0">3일차 </a></br>
+        </td>
     <tr>
         <td>김연진</td>
         <td class="링크여기에 제출"></td>
