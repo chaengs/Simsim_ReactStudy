@@ -50,6 +50,8 @@
             <a href="https://velog.io/@colorful_chaeng/리액트-공식문서-공부하기-엘리먼트-렌더링">✏️엘리먼트 렌더링</a></br>
             <a href="https://velog.io/@colorful_chaeng/리액트-공식문서-공부하기-Component와-Props">✏️Component와 Props</a></br>
             <a href="https://velog.io/@colorful_chaeng/리액트-공식문서-공부하기-State와-생명주기">✏️State와 생명주기</a>
+            <a href="https://velog.io/@colorful_chaeng/리액트-공식문서-공부하기-이벤트-처리하기">✏️이벤트 처리하기</a>
+            <a href="https://velog.io/@colorful_chaeng/리액트-공식문서-공부하기-조건부-렌더링">✏️조건부 렌더링</a>
         </td>
     </tr>
     <tr>
@@ -65,7 +67,7 @@
     <!-- 3주차 -->
     <tr>
         <td rowspan='4'>3주차</td>
-        <td rowspan='4'>고급안내서 Error Boundaries - Strict Mode (총16장)</td>
+        <td rowspan='4'>고급안내서 Error Boundaries - Strict Mode (총 16장)</td>
         <td>김슬기</td>
         <td class="링크여기에 제출"></td>
     </tr>
