@@ -65,7 +65,7 @@
     <!-- 3주차 -->
     <tr>
         <td rowspan='4'>3주차</td>
-        <td rowspan='4'>고급안내서 Error Boundaries - Strict Mode</td>
+        <td rowspan='4'>고급안내서 Error Boundaries - Strict Mode (총16장)</td>
         <td>김슬기</td>
         <td class="링크여기에 제출"></td>
     </tr>
