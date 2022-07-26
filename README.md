@@ -65,7 +65,7 @@
     <!-- 3주차 -->
     <tr>
         <td rowspan='4'>3주차</td>
-        <td rowspan='4'></td>
+        <td rowspan='4'>고급안내서 Error Boundaries - Strict Mode</td>
         <td>김슬기</td>
         <td class="링크여기에 제출"></td>
     </tr>
@@ -75,7 +75,9 @@
     </tr>
     <tr>
         <td>심채영</td>
-        <td class="링크여기에 제출"></td>
+        <td class="링크여기에 제출">
+            <a href="https://velog.io/@colorful_chaeng/리액트-공식문서-공부하기-에러-경계Error-Boundaries">✏️에러 경계</a>
+        </td>
     </tr>
     <tr>
         <td>조혜빈</td>
