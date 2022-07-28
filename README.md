@@ -80,7 +80,8 @@
         <td class="링크여기에 제출">
             <a href="https://velog.io/@colorful_chaeng/리액트-공식문서-공부하기-에러-경계Error-Boundaries">✏️에러 경계</a></br>
             <a href="https://velog.io/@colorful_chaeng/리액트-공식문서-공부하기-Ref-전달하기Forwarding-Refs">✏️Ref 전달하기</a></br>
-            <a href="https://velog.io/@colorful_chaeng/리액트-공식문서-공부하기-Fragments">✏️Fragments</a>
+            <a href="https://velog.io/@colorful_chaeng/리액트-공식문서-공부하기-Fragments">✏️Fragments</a></br>
+            <a href="https://velog.io/@colorful_chaeng/리액트-공식문서-공부하기-고차-컴포넌트">✏️고차 컴포넌트</a>
         </td>
     </tr>
     <tr>
