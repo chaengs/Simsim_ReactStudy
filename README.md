@@ -86,7 +86,10 @@
     </tr>
     <tr>
         <td>조혜빈</td>
-        <td class="링크여기에 제출"></td>
+        <td class="링크여기에 제출">
+          <a href="https://velog.io/@johyebin/리액트-공식문서-스터디-5일차">에러 경계, Ref 전달</a></br>
+          <a href="https://velog.io/@johyebin/리액트-공식문서-스터디-6일차-Ref와-DOM">Ref와 DOM</a>
+        </td>
     </tr>
     <!-- 4주차 -->
     <tr>
