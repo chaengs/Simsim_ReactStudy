@@ -91,25 +91,6 @@
           <a href="https://velog.io/@johyebin/리액트-공식문서-스터디-6일차-Ref와-DOM">Ref와 DOM</a>
         </td>
     </tr>
-    <!-- 4주차 -->
-    <tr>
-        <td rowspan='4'>4주차</td>
-        <td rowspan='4'></td>
-        <td>김슬기</td>
-        <td class="링크여기에 제출"></td>
-    </tr>
-    <tr>
-        <td>김연진</td>
-        <td class="링크여기에 제출"></td>
-    </tr>
-    <tr>
-        <td>심채영</td>
-        <td class="링크여기에 제출"></td>
-    </tr>
-    <tr>
-        <td>조혜빈</td>
-        <td class="링크여기에 제출"></td>
-    </tr>
 </table>
 
 ### 1️⃣ 1주차 : 벨로퍼트와 함께하는 모던 리액트
